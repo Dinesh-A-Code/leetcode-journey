@@ -19,9 +19,9 @@ Problems are organized based on difficulty level:
 
 Total Problems Solved: **41**
 
-* Easy: 31
-* Medium: 8
-* Hard: 2
+* Easy: 36
+* Medium: 11
+* Hard: 3
 
 ## Goals
 
