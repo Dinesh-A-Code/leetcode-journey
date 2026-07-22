@@ -17,11 +17,11 @@ Problems are organized based on difficulty level:
 
 ## Progress
 
-Total Problems Solved: 159
+Total Problems Solved: 161
 
 * Easy: 76
-* Medium: 63
-* Hard: 20
+* Medium: 64
+* Hard: 21
 
 ## Goals
 
