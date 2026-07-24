@@ -7,14 +7,6 @@ It documents my journey of improving Data Structures and Algorithms (DSA) and st
 
 https://leetcode.com/u/Dinesh_A_Code/
 
-## Repository Structure
-
-Problems are organized based on difficulty level:
-
-* Easy
-* Medium
-* Hard
-
 ## Progress
 
 Total Problems Solved: 163
