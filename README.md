@@ -11,7 +11,7 @@ https://leetcode.com/u/Dinesh_A_Code/
 
 Total Problems Solved: 164
 
-* Easy: 76
+* Easy: 77
 * Medium: 66
 * Hard: 21
 
