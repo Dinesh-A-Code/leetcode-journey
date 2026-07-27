@@ -9,10 +9,10 @@ https://leetcode.com/u/Dinesh_A_Code/
 
 ## Progress
 
-Total Problems Solved: 165
+Total Problems Solved: 169
 
-* Easy: 78
-* Medium: 66
+* Easy: 81
+* Medium: 67
 * Hard: 21
 
 ## Goals
