@@ -15,12 +15,38 @@ Total Problems Solved: 177
 * Medium: 73
 * Hard: 21
 
-## Goals
+---
 
-* Strengthen understanding of Data Structures and Algorithms
-* Improve problem-solving and logical thinking
-* Prepare for technical interviews and coding assessments
+## 🎯 Goals
 
-## Language Used
+- 📚 Strengthen Data Structures & Algorithms concepts
+- 💡 Improve logical thinking and problem-solving skills
+- ⚡ Learn optimized coding techniques
+- 💼 Prepare for coding interviews and online assessments
+- 🔄 Maintain consistency through regular practice
 
-Java
+---
+
+## 💻 Language
+
+- **Java**
+
+---
+
+## 📂 Repository Structure
+
+```
+LeetCode-Java/
+├── Easy/
+├── Medium/
+├── Hard/
+└── README.md
+```
+
+---
+
+## ⭐ About
+
+Every solution in this repository represents a step forward in my DSA journey. As I solve more problems, this repository will continue to grow with better approaches and optimized solutions.
+
+If you find this repository helpful, feel free to ⭐ star it!
