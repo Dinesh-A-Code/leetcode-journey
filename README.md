@@ -12,7 +12,7 @@ https://leetcode.com/u/Dinesh_A_Code/
 Total Problems Solved: 177
 
 * Easy: 85
-* Medium: 71
+* Medium: 73
 * Hard: 21
 
 ## Goals
